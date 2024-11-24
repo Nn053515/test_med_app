@@ -21,5 +21,6 @@ function App() {
     </div>
   );
 }
+<Route path="/instant-consultation" element={<InstantConsultation />} />
 
 export default App;
